@@ -1,6 +1,7 @@
 # Real-Estate-Pricing
 **Real Estate Pricing**
-I have friends and relatives who are currently look for homes so I was curious to see whether ML models could predict the price of homes sold. I also wanted to use regression models and techniques such as elastic net and lasso (L1) regression.
+
+I know a lot of people who are looking for homes in NYC right now so I was curious to see whether ML models could predict the price of homes sold. I also wanted to use regression models and techniques such as elastic net and lasso (L1) regression.
 This project predicts the sales of real estate using regression models. 
 
 **Nulls**
